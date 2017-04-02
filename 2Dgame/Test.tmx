@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Tile" tilewidth="32" tileheight="32">
+  <properties>
+   <property name="type" value="1"/>
+  </properties>
+  <image source="Tile.png" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="2" name="Ground" tilewidth="32" tileheight="32">
+  <properties>
+   <property name="type" value="1"/>
+  </properties>
+  <image source="Ground.png" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="3" name="DarkGround" tilewidth="32" tileheight="32">
+  <properties>
+   <property name="type" value="1"/>
+  </properties>
+  <image source="Ground2.png" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="4" name="Image3" tilewidth="32" tileheight="32">
+  <image source="Image3.bmp" trans="808040" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="5" name="Bghills" tilewidth="255" tileheight="256">
+  <tileoffset x="-1" y="0"/>
+  <image source="Bghills.png" trans="808040" width="256" height="256"/>
+ </tileset>
+ <imagelayer name="Sky" x="-1" y="-1">
+  <image source="Sky.png" trans="ff55ff"/>
+ </imagelayer>
+ <layer name="Background" width="40" height="40" opacity="0.3">
+  <data encoding="base64" compression="zlib">
+   eJzt0UEKwCAQQ1Gr979zV90EYx1HEOE/yNKQwVIAAAAAAAAA3OKRZN66ZHZVyUyfe+sS2andTfK3cfTWZfb23s2uz/1TZFfk9m9b9Gb9p9VtujHb47p36fXjvBdYyAFs
+  </data>
+ </layer>
+ <layer name="Gamelayer" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1TsKADEIAFE/97/zNgubIiLEsFrMA1szJEVEAAAAAAATaHdAwroDEt4dkKCvhr4a+mrom09l9j9q70SdHswfdDlv7ZzStzt313hKixPdjV3YrfK9yelEfX5hd7Z/wjynGgFt
+  </data>
+ </layer>
+ <layer name="Foreground" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7Al+PeMioWDVkETAAAAAAC+musAlCwhlAAE
+  </data>
+ </layer>
+ <layer name="Staticobj" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJADEMBEH7cf81O3oQ5wKkYAaUKDrYtQAAAACA6XbcNF/c7/TMeZy4+u+WbWvjCfuybW08YV+2rY0n7KPPBTh7AFs=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,16 @@
+questions: Describe ways research chemists minimize climate change from greenhouse gasses(5)
+answers: Supersparm
+questions: Explain with an enthalpy profile and a bolzman distrobution how catalysts affect the rate of reaction(7)
+questions: Discuss the benefits and disadvantages of changing from diesel to biodiesel
+questions: Outline the stages for CO to react with NO in a catalytic converter
+questions: Describe the manufacture of Bioethanol
+questions: Advantages and disadvantages of biofuels
+questions: Why are the conditions comprimised in Haber Process
+questions: Explain why industries use catalysts in terms of sustainability, economics and pollution
+questions: Describe the reaction of HBR with alkenes
+questions: Le Chateliers principle Explain why the conditions change
+questions: Calculate all the possible structures for Compound J
+questions: Describe and Explain the reaction Mechanism
+questions: Suggest structures for Several compounds
+questions: Explain how catalysts increase sustainability
+questions: Describe 2 methods for carbon capture and storage

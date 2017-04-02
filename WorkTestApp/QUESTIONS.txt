@@ -1,0 +1,26 @@
+questions: What elements are in a catalytic converter?
+questions: What is the catalyst for the elimination of ethanol?
+questions: What are the conditions for catalytic Cracking?
+questions: What are the conditions for the hydrogenation of alkenes?
+questions: What are the conditions for the hydration of alkenes?
+questions: What are the conditions for radical polymerisation?
+questions: What are the conditions for Ziegler-Matta process?
+questions: What are the conditions for the hydration of Ethene?
+questions: What are the conditions for the fermentation of Glucose?
+questions: What are the conditions for esterification?
+questions: What are the conditions for the dehydration of alcohols?
+questions: What are the conditions for the production of ammonia?
+questions: What are the conditions for the production of bleach?
+answers: Platinum, Palladium, Rhodium
+answers: an acid Catalyst
+answers: Zeolite and 450degrees Celsius
+answers: Nickel catalyst, gaseous, 150degrees Celsius
+answers: H3PO4 catalyst, high temperatures, high pressures
+answers: High pressure and 200degrees Celsius
+answers: TiCl3 and Al(C2H5)2Cl at 60degrees Celsius
+answers: H3PO4 Catalyst, 60atm and 300degrees Celsius
+answers: Yeast and 37degrees Celsius
+answers: H2SO4 catalyst
+answers: H2SO4 catalyst, Heat and reflux
+answers: Iron Catalyst, 200atm and 400-500degrees Celcius
+answers: Dilute NaOH reactant and cool room temperatures

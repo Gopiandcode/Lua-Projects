@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Red" tilewidth="32" tileheight="32">
+  <image source="Red.png" trans="808040" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="Green" tilewidth="32" tileheight="32">
+  <image source="Green.png" trans="808040" width="32" height="32"/>
+ </tileset>
+ <imagelayer name="Back">
+  <image source="Background.png"/>
+ </imagelayer>
+ <layer name="realworld" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgYCQCEwOI1QOTZyJgHzHmYLMXmznkmIfPbGLMQzaXWAwALdQAOw==
+  </data>
+ </layer>
+</map>
